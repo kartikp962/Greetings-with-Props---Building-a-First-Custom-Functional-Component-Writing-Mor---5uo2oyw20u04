@@ -1,5 +1,6 @@
 // write code for Welcome component here
 import React from "react"
+
 function Welcome(props) {
   return (
     <>
